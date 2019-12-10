@@ -4,4 +4,5 @@ NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
 
 echo "this was run automatically"
-echo "Congratulations for Success.....!"
+echo "Congratulations for Success....."
+echo"Hello, Peoples"
