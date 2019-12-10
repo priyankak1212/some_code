@@ -5,4 +5,4 @@ echo "$NUMBER"
 
 echo "this was run automatically"
 echo "Congratulations for Success....."
-echo"Hello, People..."
+echo"Hello, Peoples.."
